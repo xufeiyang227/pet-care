@@ -318,7 +318,7 @@ const pageMarkup = `<header class="topbar">
           <div class="visit-copy">
             <h2>来店里，先摸摸水温再开洗</h2>
             <ul class="visit-list">
-              <li><i data-lucide="map-pin" aria-hidden="true"></i><span>地址：广州市天河区前进街道兰亭盛荟商业街（兰亭盛荟二期附近）</span></li>
+              <li><i data-lucide="map-pin" aria-hidden="true"></i><span>地址：广州市天河区前进街道兰亭盛荟商业街（兰亭盛荟二期肯德基附近）</span></li>
               <li><i data-lucide="clock" aria-hidden="true"></i><span>营业：周一至周日 10:00-21:00，20:30 后不接新单</span></li>
               <li><i data-lucide="phone" aria-hidden="true"></i><span>电话：18148935468，可预约接送和会员卡</span></li>
             </ul>
@@ -333,7 +333,7 @@ const pageMarkup = `<header class="topbar">
               <div class="map-road road-qianjin"><span>前进街道</span></div>
               <div class="map-road road-neighborhood"><span>宦溪西路</span></div>
               <div class="map-zone park">万富商业<br>大厦</div>
-              <div class="map-zone tianhe">兰亭盛荟<br>三期</div>
+              <div class="map-zone tianhe">兰亭盛荟<br>二期</div>
               <div class="map-zone community">西马社区</div>
               <div class="map-shop yihe"><i data-lucide="shopping-bag" aria-hidden="true"></i>益禾堂</div>
               <div class="map-shop food"><i data-lucide="utensils" aria-hidden="true"></i>兰州牛肉面</div>
@@ -341,7 +341,7 @@ const pageMarkup = `<header class="topbar">
               <div class="map-shop-marker">
                 <span class="map-pin"><i data-lucide="paw-print" aria-hidden="true"></i></span>
                 <strong>绒绒岛门店</strong>
-                <small>广州市天河区前进街道兰亭盛荟商业街，近兰亭盛荟二期</small>
+                <small>广州市天河区前进街道兰亭盛荟商业街，近兰亭盛荟二期肯德基</small>
               </div>
             </div>
           </div>
