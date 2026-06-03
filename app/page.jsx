@@ -225,7 +225,7 @@ const pageMarkup = `<header class="topbar">
                 <strong>接送服务</strong>
                 <span>门店 3 公里内可约，按路程和时段确认。</span>
               </div>
-              <b>¥30 起</b>
+              <b>20 元起</b>
             </div>
           </div>
         </div>
